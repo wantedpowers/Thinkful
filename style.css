@@ -27,7 +27,7 @@ a:hover {
 h1 {
 	color: #CF4647;
 	text-transform: uppercase;
-	font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+	font-family: Arial, sans-serif;
 	line-height: 0.813em;
 }
 
@@ -35,7 +35,7 @@ h2 {
 	background-color: #ffffff;
 	color: #524656;
 	text-transform: uppercase;
-	font-family: "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+	font-family: Arial, sans-serif;
 	padding-left: 2px;
 
 }
@@ -43,27 +43,34 @@ h2 {
 h3 {
 	color: #524656;
 	text-transform: uppercase;
-	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+	font-family: Verdana;
 	line-height: 0.813em;
+}
+
+h4 {
+	color: #ffffff;
+	text-transform: uppercase;
+	font-family: Verdana;
+	font-size: 90%;
 }
 
 h5 {
 	color: #EB7B59;
 	text-transform: uppercase;
-	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+	font-family: Verdana;
 	line-height: 0.2em;
 }
 
 p {
 	color: #000000;
-	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+	font-family: Verdana;
 	font-size: 0.813em;
 	text-align: justify;
 }
 
 ul {
 	color: #000000;
-	font-family: "Avant Garde", Avantgarde, "Century Gothic", CenturyGothic, "AppleGothic", sans-serif;
+	font-family: Verdana;
 	font-size: 0.813em;
 	text-align: justify;
 }
@@ -84,10 +91,6 @@ ul {
 	padding: 10px;
 	border: 5px solid #000000;
 
-}
-
-.school h3 {
-	color: #FFFFFF;
 }
 
 #footer {
